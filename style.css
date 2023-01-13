@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 25%;
-    background-image: linear-gradient(to top right,#fbc904,#f10b19, #7f3cb2);
+    background-image: linear-gradient(to top right,#fbc904,#f10b19, #7f3cb2,#7f3cb2);
     flex-shrink: 0;
 }
 .maindiv {
@@ -40,7 +40,7 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    background-image: linear-gradient(to top right,#fbc904,#f10b19, #7f3cb2);
+    background-image: linear-gradient(to top right,#fbc904,#f10b19, #7f3cb2, #7f3cb2);
 }
 .smalldiv1 {
     width: 180px;
@@ -48,7 +48,7 @@ body {
     border-radius: 50%;
     background-color: #e1173d;
     border: 20px solid white;
-    background-image: linear-gradient(to top right,#fbc904,#f10b19, #7f3cb2);
+    background-image: linear-gradient(to top right,#fbc904,#f10b19, #7f3cb2,#7f3cb2);
 }
 .circle {
     border-radius: 50%;
